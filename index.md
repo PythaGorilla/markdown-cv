@@ -45,11 +45,17 @@ __HSBC Software Development.__ Software Developer
 
 
 ## Projects
-Contextual Suggestion 
-https://bitbucket.org/mojians/contextual-suggestion
+Contextual Suggestion
+<div id="webaddress">
+<a href="https://bitbucket.org/mojians/contextual-suggestion">https://bitbucket.org/mojians/contextual-suggestion</a>
+</div>
+
 
 Artificial Life Experiment
-https://github.com/PythaGorilla/Artificial_life/
+<div id="webaddress">
+<a href="https://github.com/PythaGorilla/Artificial_life/">https://github.com/PythaGorilla/Artificial_life/</a>
+</div>
+
 
 ## Conferences
 `2016-2017`
