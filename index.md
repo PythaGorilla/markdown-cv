@@ -13,10 +13,10 @@ Computers Science Graduate Student
 ## Education
 
 `2015-17`
-__Laval University__ MSc Computer Science 
+__Laval University__ M.Sc. in Computer Science 
 
 `2007-11`
-__Shanxi University__ BSc Mathematics 
+__Shanxi University__ B.Sc. in Mathematics 
 
 ## Employment
 
