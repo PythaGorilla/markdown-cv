@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Jian Mo's CV
 ---
 # Jian Mo
 Computers Science Graduate Student
@@ -38,6 +38,11 @@ __HSBC Software Development.__ Software Developer
 * VBA
 * Machine learning
 * Git / Mercurial
+
+## Research Interests
+* Natural Language Processing
+* Machine Learning
+* Artificial Intelligence / Artificial Life
 
 
 ## Projects
