@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Ben Moore's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jian Mo
+Computers Science Graduate Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page/a>
+<a href="mailto:jian.mo.1@ulaval.ca">jian.mo.1@ulaval.ca</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-17`
+__Laval University__ MSc Computer Science 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2007-11`
+__Shanxi University__ BSc Mathematics 
 
-- Sizar
+## Employment
 
-`1667 - 
-__Trinity College, Cambridge__
+`2012-2014` 
+__HugenStar Game.__ Data analyst and Statistical programmer
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2014-2015` 
+__HSBC Software Development.__ Software Developer 
 
 
+## Technical skills
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+* Python
+* C#
+* Clojure / Scheme
+* Matlab
+* Formal Validation
+* VBA
+* Machine learning
+* Git / Mercurial
 
 
-## Occupation
+## Projects
+Contextual Suggestion 
+https://bitbucket.org/mojians/contextual-suggestion
 
-`1600`
-__Royal Mint__, London
+Artificial Life Experiment
+https://github.com/PythaGorilla/Artificial_life/
 
-- Warden
-- Minted coins
+## Conferences
+`2016-2017`
+Contextual Suggestion, Information Retrieval TREC 2016, Gaithersburg(USA)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2015-2016`
+Contextual Suggestion, Information Retrieval TREC 2016, Gaithersburg(USA)
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
