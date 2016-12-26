@@ -10,7 +10,6 @@ Computers Science Graduate Student
 </div>
 
 
-
 ## Education
 
 `2015-17`
@@ -28,7 +27,7 @@ __HugenStar Game.__ Data analyst and Statistical programmer
 __HSBC Software Development.__ Software Developer 
 
 
-## Technical skills
+## Technical Skills
 
 * Python
 * C#
@@ -42,7 +41,7 @@ __HSBC Software Development.__ Software Developer
 ## Research Interests
 * Natural Language Processing
 * Machine Learning
-* Artificial Intelligence / Artificial Life
+* Artificial Intelligence / Artificial Life / Evolution Algorithm
 
 
 ## Projects
@@ -58,6 +57,11 @@ Contextual Suggestion, Information Retrieval TREC 2016, Gaithersburg(USA)
 
 `2015-2016`
 Contextual Suggestion, Information Retrieval TREC 2016, Gaithersburg(USA)
+
+## Personal Interests
+* Soccer
+* Guitar / Music 
+* Economics
 
 <!-- ### Footer
 
