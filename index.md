@@ -10,19 +10,19 @@ Address: 68-2470 Quatre Bourgeois, Québec, QC
 
 ## Work Experience
 
-__Machine Learning Engineer__ - __Xiaoniu Animation__  Shenzhen, China `2018/01 - 2019/05` 
+__Machine Learning Engineer__ - __Xiaoniu Animation__  Shenzhen, China `2018/01 - 2019/05`   
 Developed a recommentaion microservice with a pioneer use of deepwalk in production and greatly improved user CTR and retention rates. Invented a new graph search algorithm which is much faster than other products on the market. Built and helped maintain the ETL and CI/CD pipeline of the company. (Spark, Scala, Kafka, Hadoop, Hive, Docker, GO, Python, Arangodb, Airflow)
 
-__Research Intern__ - __Thales__  Québec, QC, Canada `2017/05 - 2017/12` 
+__Research Intern__ - __Thales__  Québec, QC, Canada `2017/05 - 2017/12`  
 Built a semantic search engine helping the HR department find specific experts. It combines graph database with machine learning (graph embedding) and NLProc (chatbot). The final product allows a HR to input a natural sentence describing the desired expertise in the portal and generate proper candidates. (Neo4j, Docker,  React, Flask, Tensorflow)
 
-__Research Intern__ - __City Government__  Québec, QC, Canada `2016/05 - 2016/09` 
+__Research Intern__ - __City Government__  Québec, QC, Canada `2016/05 - 2016/09`  
 Built a pdf table extraction tool for techinical documents of soil protection and rehabilitation. The tool achieved a STOA result of 91% recall and 77% precision. (Java, Kotlin, Python)
 
-__Software Developer__ - __HSBC Software Development__  Guangzhou, China `2014/01 - 2015/01` 
+__Software Developer__ - __HSBC Software Development__  Guangzhou, China `2014/01 - 2015/01`  
 Developed several tools (reporting/analysis) for traders across APEC region. Helped supporting other legacy tools. (Java, VBA, Access, Oracle, Bash, Python)
 
-__Game Developer & Mathematician__ - __HugenStar Game__ Guangzhou, China `2012/01 - 2014/01` 
+__Game Developer & Mathematician__ - __HugenStar Game__ Guangzhou, China `2012/01 - 2014/01`  
 Designed the economy and assisted development of a mobile fighting game which ranked top 10 games on apple store with 4 million players. （Unity3D, VBA, Excel, Matlab, Python）
 
 ## Research Projects
