@@ -1,8 +1,3 @@
-
----
-layout: cv
-title: Jian Mo's CV
----
 ## Jian Mo
 Email: [jian.mo.1@ulaval.ca](jian.mo.1@ulaval.ca)  
 Phone: 581-980-1919  
