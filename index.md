@@ -19,14 +19,11 @@ __Game Developer & Mathematician__ - __HugenStar Game__ Guangzhou, China `2012/0
 Designed the economy and assisted development of a mobile fighting game which ranked top 10 games on apple store with 4 million players. （Unity3D, VBA, Excel, Matlab, Python）
 
 ## Research Projects
-[__Question  Answering and Generation__](https://github.com/PythaGorilla/QAQG/)  
-Using large language model to mine question answer pairs from text
+[__Question  Answering and Generation__](https://github.com/PythaGorilla/QAQG/)  Using large language model to mine question answer pairs from text
 
-[__Machine Learning framework in Unity__](https://github.com/PythaGorilla/Artificial_life/)  
-A machine learning bot framework in Unity that communicates controlled by outside signals.
+[__Machine Learning framework in Unity__](https://github.com/PythaGorilla/Artificial_life/)  A machine learning bot framework in Unity that communicates controlled by outside signals.
 
-[__Contextual Suggestion__](https://bitbucket.org/mojians/contextual-suggestion)  
-A recommender system which is the first to use word embeddings.
+[__Contextual Suggestion__](https://bitbucket.org/mojians/contextual-suggestion)  A recommender system which is the first to use word embeddings.
 
 ## Technical Skills
 | | |
