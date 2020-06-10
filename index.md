@@ -26,18 +26,14 @@ Designed the economy and assisted development of a mobile fighting game which ra
 [__Contextual Suggestion__](https://bitbucket.org/mojians/contextual-suggestion)  A recommender system which is the first to use word embeddings.
 
 ## Technical Skills
-| | |
-|--|--|
-| Programming Languages | Python, Java, Kotlin, Scala, C#, Unity3D, VBA |
-| Machine Learning | Pytorch, Tensorflow, NLP, Graph Theory |
-| Big Data | Spark, Hadoop, Kafka, Hive |
-| Databases | ArangoDB, MySQL, Oracle, Redis, Elasticsearch, Neo4j |
-| Cloud | EC2, Lambda, AWS Glue, S3, Kinesis |
-| Backend | Flask, Django, Falcon, Nodejs |
-| Frontend | React, Semantic-UI, Bootstrap|
-| Others | Docker, Bash, HP-Computing, Lisp / Scheme, Haskell|
-|Version Control| Git, Gitlab, Rational Team Concert|
-
+Programming Languages | Python, Java, Kotlin, Scala, C#, Unity3D, VBA  
+Machine Learning | Pytorch, Tensorflow, NLP, Graph Theory  
+Big Data | Spark, Hadoop, Kafka, Hive  
+Databases | ArangoDB, MySQL, Oracle, Redis, Elasticsearch, Neo4j  
+Cloud | EC2, Lambda, AWS Glue, S3, Kinesis  
+Backend | Flask, Django, Falcon, Nodejs  
+Frontend | React, Semantic-UI, Bootstrap  
+Others | Docker, Bash, HP-Computing, Lisp / Scheme, Haskell  
 
 ## Education
 
