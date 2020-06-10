@@ -21,7 +21,7 @@ Designed the economy and assisted development of a mobile fighting game which ra
 ## Research Projects
 [__Question  Answering and Generation__](https://github.com/PythaGorilla/QAQG/)  Using large language model to mine question answer pairs from text
 
-[__Machine Learning framework in Unity__](https://github.com/PythaGorilla/Artificial_life/)  A machine learning bot framework in Unity that communicates controlled by outside signals.
+[__Unity Machine Learning framework __](https://github.com/PythaGorilla/Artificial_life/)  A machine learning bot framework in Unity controlled by outside signals.
 
 [__Contextual Suggestion__](https://bitbucket.org/mojians/contextual-suggestion)  A recommender system which is the first to use word embeddings.
 
