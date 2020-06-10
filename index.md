@@ -1,7 +1,5 @@
 ## Jian Mo
-Email: [jian.mo.1@ulaval.ca](jian.mo.1@ulaval.ca)  
-Phone: 581-980-1919  
-Address: 68-2470 Quatre Bourgeois, Québec, QC  
+Email: [jian.mo.1@ulaval.ca](jian.mo.1@ulaval.ca)  Phone: 581-980-1919  Address: 68-2470 Quatre Bourgeois, Québec, QC  
 
 ## Work Experience
 
