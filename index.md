@@ -70,4 +70,4 @@ Built a recommender system with fast response time. Gave a talk. (Elasticsearch,
 
 <!-- ### Footer
 
-Last updated: Dec, 2016 -->
+Last updated: May, 2020 -->
