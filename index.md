@@ -16,6 +16,7 @@ __Software Developer__ - __HSBC Software Development__  Guangzhou, China `2014/0
 Developed several tools (reporting/analysis) for traders across APEC region. Helped supporting other legacy tools. (Java, VBA, Access, Oracle, Bash, Python)
 
 __Game Developer & Mathematician__ - __HugenStar Game__ Guangzhou, China `2012/01 - 2014/01`  
+Designed the economy and assisted development of a mobile fighting game which ranked top 10 games on apple store with 4 million players. （Unity3D, VBA, Excel, Matlab, Python）
 
 ## Research Projects
 [__Question  Answering and Generation__](https://github.com/PythaGorilla/QAQG/)  Using large language model to mine question answer pairs from text
