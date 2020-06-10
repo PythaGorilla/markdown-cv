@@ -11,7 +11,7 @@ Address: 68-2470 Quatre Bourgeois, Québec, QC
 ## Work Experience
 
 __Machine Learning Engineer__ - __Xiaoniu Animation__  Shenzhen, China `2018/01 - 2019/05` 
-Developed a recommentaion microservice with a pioneer use of deepwalk in production and greatly improved user retention rates. Invented a new graph search algorithm which is much faster than other products on the market. Built and helped maintain the ETL and CI/CD pipeline of the company. (Spark, Scala, Kafka, Hadoop, Hive, Docker, GO, Python, Arangodb, Airflow)
+Developed a recommentaion microservice with a pioneer use of deepwalk in production and greatly improved user CTR and retention rates. Invented a new graph search algorithm which is much faster than other products on the market. Built and helped maintain the ETL and CI/CD pipeline of the company. (Spark, Scala, Kafka, Hadoop, Hive, Docker, GO, Python, Arangodb, Airflow)
 
 __Research Intern__ - __Thales__  Québec, QC, Canada `2017/05 - 2017/12` 
 Built a semantic search engine helping the HR department find specific experts. It combines graph database with machine learning (graph embedding) and NLProc (chatbot). The final product allows a HR to input a natural sentence describing the desired expertise in the portal and generate proper candidates. (Neo4j, Docker,  React, Flask, Tensorflow)
