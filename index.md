@@ -30,15 +30,13 @@ A machine learning bot framework in Unity that communicates controlled by outsid
 [__Contextual Suggestion__](https://bitbucket.org/mojians/contextual-suggestion)  
 A recommender system which is the first to use word embeddings.
 
-
 ## Technical Skills
-
 | | |
 |--|--|
 | Programming Languages | Python, Java, Kotlin, Scala, C#, Unity3D, VBA |
 | Machine Learning | Pytorch, Tensorflow, NLP, Graph Theory |
 | Big Data | Spark, Hadoop, Kafka, Hive |
-| Databases | ArangoDB, MySQL, Oracle, Redis, Elasticsearch, Neo4j, JanusGraph |
+| Databases | ArangoDB, MySQL, Oracle, Redis, Elasticsearch, Neo4j |
 | Cloud | EC2, Lambda, AWS Glue, S3, Kinesis |
 | Backend | Flask, Django, Falcon, Nodejs |
 | Frontend | React, Semantic-UI, Bootstrap|
@@ -57,11 +55,9 @@ __Shanxi University B.Sc. in Mathematics__  `2007/09 - 2011/09`
 
 __Contextual Suggestion, TREC 2016__ Gaithersburg(USA) `2016 - 2017`
 
-The first to use word embedding in representing recommender systems. Achived best result of the track.
-(Tensorflow, Scikit-Learn, Python).
+The first to use word embedding in representing recommender systems. Achived best result of the track.(Tensorflow, Scikit-Learn, Python).
 
-__Contextual Suggestion, TREC 2015__ Gaithersburg(USA) `2015 - 2016`
-
+__Contextual Suggestion, TREC 2015__ Gaithersburg(USA) `2015 - 2016`  
 Built a recommender system with fast response time. Gave a talk. (Elasticsearch, Scikit-Learn, Python).
 
 
