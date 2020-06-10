@@ -11,7 +11,7 @@ Address: 68-2470 Quatre Bourgeois, Québec, QC
 ## Work Experience
 
 __Machine Learning Engineer__ - __Xiaoniu Animation__  Shenzhen, China `2018/01 - 2019/05` 
-Developed a recommentaion microservice with a pioneer use of deepwalk in production and greatly improved user retention rates. Invented a new graph search algorithm which is much faster than other products on the market. Built and helped maintain the ETL and CI/CD pipeline of the company. (Scala, Hadoop, Hive, Docker, Python, Arangodb, Airflow)
+Developed a recommentaion microservice with a pioneer use of deepwalk in production and greatly improved user retention rates. Invented a new graph search algorithm which is much faster than other products on the market. Built and helped maintain the ETL and CI/CD pipeline of the company. (Spark, Scala, Kafka, Hadoop, Hive, Docker, GO, Python, Arangodb, Airflow)
 
 __Research Intern__ - __Thales__  Québec, QC, Canada `2017/05 - 2017/12` 
 Built a semantic search engine helping the HR department find specific experts. It combines graph database with machine learning (graph embedding) and NLProc (chatbot). The final product allows a HR to input a natural sentence describing the desired expertise in the portal and generate proper candidates. (Neo4j, Docker,  React, Flask, Tensorflow)
@@ -40,13 +40,14 @@ A recommender system which is the first to use word embeddings.
 
 | | |
 |--|--|
-| Programming Languages | Python, Java, Kotlin, C#, Scala, Unity3D, VBA |
+| Programming Languages | Python, Java, Kotlin, Scala, C#, Unity3D, VBA |
 | Machine Learning | Pytorch, Tensorflow, NLP, Graph Theory |
+| Big Data | Spark, Hadoop, Kafka, Hive |
 | Databases | ArangoDB, MySQL, Oracle, Redis, Elasticsearch, Neo4j, JanusGraph |
 | Cloud | EC2, Lambda, AWS Glue, S3, Kinesis |
 | Backend | Flask, Django, Falcon, Nodejs |
 | Frontend | React, Semantic-UI, Bootstrap|
-| Others | Docker, Bash,HP-Computing, Lisp / Scheme, Haskell|
+| Others | Docker, Bash, HP-Computing, Lisp / Scheme, Haskell|
 |Version Control| Git, Gitlab, Rational Team Concert|
 
 
